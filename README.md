@@ -4,9 +4,20 @@ A flask based blog application, using
 
 - [Python](http://python.org/)
 - [Flask](http://flask.pocoo.org/)
-- Markdown(http://daringfireball.net/projects/markdown/syntax)
+- [Markdown](http://daringfireball.net/projects/markdown/syntax)
 - [jQuery](http://jquery.com)
 - Bootstrap (Theme by: [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/))
+
+## Requirements
+- Python==3.8
+- MySQLdb==2.0.1
+- Flask-MySQLdb==0.2.0
+- Jinga2==2.11.2
+- pip==20.2.2
+- Flask==1.1.2
+- Flask_SQLAlchemy==2.4.4
+- Flask_Mail==0.9.1
+- Werkzeug==1.0.1
 
 ## How do I use this ? 
 
