@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "blog": "Clean Blogs",
+    "tagline": "Practice blog",
+    "local_uri": "mysql://root:Shreya@1@127.0.0.1/codingthunder",
+    "prod_sever": "mysql://root:Shreya@1@127.0.0.1/codingthunder",
+    "fb_url": "https://facebook.com",
+    "twitter_url": "https://twitter.com",
+    "github_url": "https://github.com",
+    "gmail-user": "youremailid@gmail.com",
+    "gmail-password": "yourpassword",
+    "no-of-post": 2,
+    "admin-name": "Shreya",
+    "admin-password": "password",
+    "upload_location": "/location/static/img"
+  }
+}
