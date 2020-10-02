@@ -22,7 +22,8 @@ A flask based blog application, using
 ## How do I use this ? 
 
 - Clone the repo
-`git clone https://github.com/dmaslov/flask-blog.git`
+`git clone https://github.com/Shreyz-max/flask-blog.git`
+ or download the zip file
 
 - move to the location repo is downloaded `cd flask-blog`
 - run ```pip install -r requirements.txt```
